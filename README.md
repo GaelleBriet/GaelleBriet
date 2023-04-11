@@ -5,6 +5,8 @@
 
 💻 I’m currently working with & learning Vue.js & Symfony 
 
+            <i class="devicon-vuejs-plain-wordmark colored" syle="font-size: 1rem;"></i>
+          
 
 📬 Contact me :
 gaelle.briet@protonmail.com
