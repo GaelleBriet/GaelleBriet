@@ -10,3 +10,4 @@ gaelle.briet@protonmail.com
 
 📌 Follow me :
 https://gaellebriet.github.io/
+[https://img.shields.io/badge/<>-<LinkedIn>-<blue>](https://www.linkedin.com/in/gaelle-briet-666184227/)
