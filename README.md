@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+❗ Comme je n'ai pas encore de bonne idée de présentation, je laisse le texte par défaut !... ❗ 
+
 <!--
 **GaelleBriet/GaelleBriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
