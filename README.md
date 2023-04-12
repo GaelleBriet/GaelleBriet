@@ -11,3 +11,5 @@ gaelle.briet@protonmail.com
 
 📌 Follow me :
 https://gaellebriet.github.io/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelleBriet)](https://github.com/anuraghazra/github-readme-stats)
