@@ -1,6 +1,7 @@
 <h1 align="center">Gaelle Briet</h1>
 <h3 align="center">Développeur</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GaelleBriet&label=Profile%20views&color=0e75b6&style=flat" alt="GaelleBriet" /></p>
 ▶ Last year, I started a career change towards web development.
 ▶ After a first successful training 🎓, I am now following a cooperative training course with [O'clock school](https://oclock.io/) and [B2pweb.com](https://www.b2pweb.com/fr/) 🚚
 
