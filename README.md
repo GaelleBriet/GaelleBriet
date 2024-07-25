@@ -7,6 +7,10 @@
 
 📬 Contact me :
 gaelle.briet@protonmail.com
+<h2 align="center">Contact</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/gaelle-briet-666184227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GaelleBriet" height="30" width="40" /></a>
+</p>
 
 📌 Follow me :
 https://gaellebriet.github.io/
