@@ -3,9 +3,7 @@
 <a href="https://linkedin.com/in/gaelle briet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaelle briet" height="30" width="40" /></a>
 </p>
 
-
-<p>After a first successful training 🎓, I am now following a cooperative training course with [O'clock school](https://oclock.io/) and [B2pweb.com](https://www.b2pweb.com/fr/) 🚚  </p>
-
+<p>🌟 Étudiante en Master Manager en Ingénierie Informatique 🎓, je combine passion et compétences pour exceller dans le domaine de l'informatique. Avec une solide formation et une première expérience en alternance chez [B2pweb.com](https://www.b2pweb.com/fr/) 🚚, je suis prête à relever de nouveaux défis et à contribuer à des projets innovants. Découvrez mon parcours et mes projets ! 🚀</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaellebriet" alt="gaellebriet" /></a> </p>
 
