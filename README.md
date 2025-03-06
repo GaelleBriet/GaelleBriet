@@ -21,8 +21,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaellebriet&show_icons=true&locale=en" alt="gaellebriet" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GaelleBriet&" alt="GaelleBriet" /></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaellebriet&label=Profile%20views&color=0e75b6&style=flat" alt="gaellebriet" /> </p>
 
 
