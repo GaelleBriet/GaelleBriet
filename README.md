@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-<p>Passionnée par le développement, je suis actuellement apprentie ingénieur en développement chez **Spie Nucléaire**. Cette expérience en alternance me permet d'allier formation académique et pratique professionnelle. Je recherche un environnement dynamique où je pourrai continuer à apprendre et contribuer à des projets innovants.</p>
+<p>Passionnée par le développement, je suis actuellement apprentie ingénieur en développement chez <strong>Spie Nucléaire</strong>. Cette expérience en alternance me permet d'allier formation académique et pratique professionnelle. Je recherche un environnement dynamique où je pourrai continuer à apprendre et contribuer à des projets innovants.</p>
 
 ## Technologies & Outils
 
