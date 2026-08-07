@@ -31,8 +31,11 @@ Ouverte aux missions ponctuelles.
 ## Projets
 
 **Symbaroum Bestiary Manager**
-Outil de gestion de bestiaire pour le jeu de rôle Symbaroum, pensé pour un meneur de jeu en session : recherche instantanée et calcul en temps réel des statistiques (défense, protection, dégâts) selon les talents actifs, fonctionnement 100% hors-ligne sur tablette.
+
+Outil de gestion de bestiaire pour le jeu de rôle Symbaroum, pensé pour un meneur de jeu en session : 
+recherche instantanée et calcul en temps réel des statistiques (défense, protection, dégâts) selon les talents actifs, fonctionnement 100% hors-ligne sur tablette.
 Vue 3 · Pinia · Tailwind · IndexedDB (Dexie.js) · PWA
+
 → [Code](https://github.com/GaelleBriet/symbaroum-bestiary) · [Démarche produit (persona, roadmap, arbitrages)](https://app.notion.com/p/Symbaroum-Bestiary-Manager-33265a3ff6028008aa9add854face086?source=copy_link)
 
 ## Activité GitHub
