@@ -20,14 +20,6 @@ Ouverte aux missions de développement freelance comme aux projets produits en p
 Disponible dès ma structure créée, courant spetembre / octobre 2026.
 Ouverte aux missions ponctuelles.
 
-## Stack
-
-- **Frontend** : Angular, Vue.js, TypeScript, HTML/CSS
-- **Backend** : PHP (Symfony, Laravel)
-- **Bases de données** : MariaDB, MySQL, PostgreSQL, SQLite
-- **Tests & sécurité** : Cypress, Vitest, Playwright
-- **Outils** : Git, Docker, Postman/Insomnia, Confluence, MkDocs
-
 ## Projets
 
 **Symbaroum Bestiary Manager**
@@ -55,6 +47,15 @@ Flutter · Drift · Firebase
 </div>
 
 
+## Stack
+
+- **Frontend** : Angular, Vue.js, TypeScript, HTML/CSS
+- **Backend** : PHP (Symfony, Laravel)
+- **Bases de données** : MariaDB, MySQL, PostgreSQL, SQLite
+- **Tests & sécurité** : Cypress, Vitest, Playwright
+- **Outils** : Git, Docker, Postman/Insomnia, Confluence, MkDocs
+
+  
 
 ## Activité GitHub
 
