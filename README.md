@@ -38,6 +38,11 @@ Vue 3 · Pinia · Tailwind · IndexedDB (Dexie.js) · PWA
 
 → [Code](https://github.com/GaelleBriet/symbaroum-bestiary) · [Démarche produit (persona, roadmap, arbitrages)](https://app.notion.com/p/Symbaroum-Bestiary-Manager-33265a3ff6028008aa9add854face086?source=copy_link)
 
+<div align="center"><img  height="400" alt="symbaroum" src="https://github.com/user-attachments/assets/612fa59f-6884-4b35-a082-28817fb76ef4" />
+</div>
+
+---
+
 **MémoPatte**
 
 Je développe une petite application pour ne plus oublier de donner un antiparasitaire ou un vermifuge à nos compagnons à 4 pattes. Elle permettra aussi d'y enregistrer un rendez-vous chez le toiletteur par exemple pour le plus rien rater.
@@ -46,7 +51,10 @@ Flutter · Drift · Firebase
 
 → [Code](https://github.com/GaelleBriet/memo-patte)
 
-___
+<div align="center"><img height="800" alt="memo-patte" src="https://github.com/user-attachments/assets/294505f3-d09c-488e-b3ea-ecf101d0ba55" />
+</div>
+
+
 
 ## Activité GitHub
 
