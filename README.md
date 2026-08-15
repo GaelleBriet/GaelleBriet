@@ -11,7 +11,7 @@
 ## Ce que je fais
 
 Je conçois et développe des produits et outils logiciels, du cadrage fonctionnel au déploiement. 
-Je code, mais je réfléchis aussi en termes d'usage, de valeur et d'itération produit.
+Je code, mais je ne me contente pas d'exécuter un cahier des charges. Je pense à l'usage et à la valeur de ce que je construis.
 
 Ouverte aux missions de développement freelance comme aux projets produits en propre.
 
