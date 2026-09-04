@@ -39,12 +39,9 @@ Vue 3 · Pinia · Tailwind · IndexedDB (Dexie.js) · PWA
 
 Je développe une petite application pour ne plus oublier de donner un antiparasitaire ou un vermifuge à nos compagnons à 4 pattes. Elle permettra aussi d'y enregistrer un rendez-vous chez le toiletteur par exemple pour le plus rien rater.
 L'appli offre aussi un suivi de poids, utile en phase de croissance par exemple, afin d'adapter la ration quotidienne alimentaire de nos animaux.
-Flutter · Drift · Firebase
+Vue · Capacitor 
 
-→ [Code](https://github.com/GaelleBriet/memo-patte)
-
-<div align="center"><img height="800" alt="memo-patte" src="https://github.com/user-attachments/assets/294505f3-d09c-488e-b3ea-ecf101d0ba55" />
-</div>
+→ [Code](https://github.com/GaelleBriet/memo-patte-vue)
 
 
 ## Stack
