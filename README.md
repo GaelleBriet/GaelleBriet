@@ -2,8 +2,9 @@
 <p align="center"><em>Développeuse full-stack, orientée produit</em></p>
 
 <p align="center">
+  <a href="https://www.gaelle-briet.fr/">Site perso</a>
   <a href="https://www.linkedin.com/in/gaelle-briet-666184227/">LinkedIn</a> ·
-  <a href="mailto:gaelle.briet@protonmail.com">Contact</a>
+  <a href="mailto:hello@gaelle-briet.fr">Contact</a>
 </p>
 
 ---
