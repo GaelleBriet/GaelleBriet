@@ -31,18 +31,28 @@ Vue 3 · Pinia · Tailwind · IndexedDB (Dexie.js) · PWA
 
 → [Code](https://github.com/GaelleBriet/symbaroum-bestiary) · [Démarche produit (persona, roadmap, arbitrages)](https://app.notion.com/p/Symbaroum-Bestiary-Manager-33265a3ff6028008aa9add854face086?source=copy_link)
 
-<div align="center"><img  height="400" alt="symbaroum" src="https://github.com/user-attachments/assets/612fa59f-6884-4b35-a082-28817fb76ef4" />
-</div>
+<div align="center"><img height="400" alt="symbaroum-fiche-grand" src="https://github.com/user-attachments/assets/00dbacbb-35f4-4f47-aaa4-6b0fb9d33808" /></div>
+<div align="center"><img  height="400" alt="symbaroum-liste-grand" src="https://github.com/user-attachments/assets/e0403172-b9e0-421b-996b-e728f72e8d05" /></div>
+<div align="center"><img width="400" height="1000" alt="symbaroum-edition-grand" src="https://github.com/user-attachments/assets/946da40f-f158-489e-bc8c-87b1ecc2fc92" /></div>
 
 ---
 
 **MémoPatte**
 
-Je développe une petite application pour ne plus oublier de donner un antiparasitaire ou un vermifuge à nos compagnons à 4 pattes. Elle permettra aussi d'y enregistrer un rendez-vous chez le toiletteur par exemple pour le plus rien rater.
-L'appli offre aussi un suivi de poids, utile en phase de croissance par exemple, afin d'adapter la ration quotidienne alimentaire de nos animaux.
+Mon appli en cours de développement : rappels de vaccins, vermifuges et suivi du poids. Gratuite sans compte, cloud en option.
+
+Cadrage produit documenté en amont : audit concurrentiel, entretiens utilisateurs, arbitrages de périmètre.
+Le projet est conçu avec une architecture offline-first, authentification, synchronisation des données et notifications locales.
+Je porte le projet de bout en bout : cadrage fonctionnel, architecture, développement et préparation à la publication.
 Vue · Capacitor 
 
 → [Code](https://github.com/GaelleBriet/memo-patte-vue)
+→ [Informations](https://memopatte.gaelle-briet.fr/)
+
+<div align="center"><img  height="500" alt="memopatte-capture-800" src="https://github.com/user-attachments/assets/4e34e164-8ea0-46a1-84e7-e5b2dac7bfca" /></div>
+<div align="center"><img  height="1600" alt="memopatte-accueil-grand" src="https://github.com/user-attachments/assets/99c545b2-d45a-4a77-8c8c-dfe5dc7e355b" /></div>
+<div align="center"><img height="1600" alt="memopatte-carnet-grand" src="https://github.com/user-attachments/assets/e1d637a5-9668-497b-b232-a2ffb0eb9b8a" /></div>
+
 
 
 ## Stack
