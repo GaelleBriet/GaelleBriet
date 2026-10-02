@@ -50,9 +50,10 @@ Vue · Capacitor
 → [Informations](https://memopatte.gaelle-briet.fr/)
 
 <div align="center"><img  height="500" alt="memopatte-capture-800" src="https://github.com/user-attachments/assets/4e34e164-8ea0-46a1-84e7-e5b2dac7bfca" /></div>
-<div align="center"><img  height="500" alt="memopatte-accueil-grand" src="https://github.com/user-attachments/assets/99c545b2-d45a-4a77-8c8c-dfe5dc7e355b" /></div>
-<div align="center"><img height="500" alt="memopatte-carnet-grand" src="https://github.com/user-attachments/assets/e1d637a5-9668-497b-b232-a2ffb0eb9b8a" /></div>
-
+<div align="center">
+  <img height="500" alt="memopatte-accueil-grand" src="https://github.com/user-attachments/assets/99c545b2-d45a-4a77-8c8c-dfe5dc7e355b" />
+  <img height="500" alt="memopatte-carnet-grand" src="https://github.com/user-attachments/assets/e1d637a5-9668-497b-b232-a2ffb0eb9b8a" />
+</div>
 
 
 ## Stack
