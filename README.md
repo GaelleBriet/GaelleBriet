@@ -33,7 +33,7 @@ Vue 3 · Pinia · Tailwind · IndexedDB (Dexie.js) · PWA
 
 <div align="center"><img height="400" alt="symbaroum-fiche-grand" src="https://github.com/user-attachments/assets/00dbacbb-35f4-4f47-aaa4-6b0fb9d33808" /></div>
 <div align="center"><img  height="400" alt="symbaroum-liste-grand" src="https://github.com/user-attachments/assets/e0403172-b9e0-421b-996b-e728f72e8d05" /></div>
-<div align="center"><img width="400" height="1000" alt="symbaroum-edition-grand" src="https://github.com/user-attachments/assets/946da40f-f158-489e-bc8c-87b1ecc2fc92" /></div>
+<div align="center"><img height="400" alt="symbaroum-edition-grand" src="https://github.com/user-attachments/assets/946da40f-f158-489e-bc8c-87b1ecc2fc92" /></div>
 
 ---
 
@@ -50,8 +50,8 @@ Vue · Capacitor
 → [Informations](https://memopatte.gaelle-briet.fr/)
 
 <div align="center"><img  height="500" alt="memopatte-capture-800" src="https://github.com/user-attachments/assets/4e34e164-8ea0-46a1-84e7-e5b2dac7bfca" /></div>
-<div align="center"><img  height="1600" alt="memopatte-accueil-grand" src="https://github.com/user-attachments/assets/99c545b2-d45a-4a77-8c8c-dfe5dc7e355b" /></div>
-<div align="center"><img height="1600" alt="memopatte-carnet-grand" src="https://github.com/user-attachments/assets/e1d637a5-9668-497b-b232-a2ffb0eb9b8a" /></div>
+<div align="center"><img  height="500" alt="memopatte-accueil-grand" src="https://github.com/user-attachments/assets/99c545b2-d45a-4a77-8c8c-dfe5dc7e355b" /></div>
+<div align="center"><img height="500" alt="memopatte-carnet-grand" src="https://github.com/user-attachments/assets/e1d637a5-9668-497b-b232-a2ffb0eb9b8a" /></div>
 
 
 
